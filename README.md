@@ -1,4 +1,4 @@
-AP Computer Science A Final Project
+***AP Computer Science A Final Project***
 
 Code that replicates the World's Hardest Game(Level 1 of Game 1 and Level 2 of Game 2) using java.
 
